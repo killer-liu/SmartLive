@@ -1,12 +1,12 @@
 ### 抖音直播录制
-https://live.douyin.com/745964462470
-https://v.douyin.com/iQFeBnt/
-https://live.douyin.com/yall1102  （链接+抖音号）
-https://v.douyin.com/CeiU5cbX  （主播主页地址）
+- https://live.douyin.com/745964462470
+- https://v.douyin.com/iQFeBnt/
+- https://live.douyin.com/yall1102  （链接+抖音号）
+- https://v.douyin.com/CeiU5cbX  （主播主页地址）
 
 ### 快手直播录制
 
-https://live.kuaishou.com/u/yall1102
+- https://live.kuaishou.com/u/yall1102
 
 ### 直播录制精灵_24小时守护
 
