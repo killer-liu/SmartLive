@@ -1,5 +1,16 @@
+### 抖音直播录制
+https://live.douyin.com/745964462470
+https://v.douyin.com/iQFeBnt/
+https://live.douyin.com/yall1102  （链接+抖音号）
+https://v.douyin.com/CeiU5cbX  （主播主页地址）
+
+### 快手直播录制
+
+https://live.kuaishou.com/u/yall1102
+
 ### 直播录制精灵_24小时守护
 
+- 抖音、快手直播录制软件
 - 24小时自动监控录制，做到开播自动录制
 - 批量开始录制、自动录制、停止录制等
 - TS格式高清原画录制
@@ -15,6 +26,4 @@
 ![](https://hhhhad.oss-cn-hangzhou.aliyuncs.com/1.jpg?Expires=1738039760&OSSAccessKeyId=TMP.3KgbCm3PASaghmJ9hmXyWpiDPCxEyffwXugro57e9zh1VteCAV6ARuPydtk389kHSAPuqmCLrsJbZWHNEdGg1gv2KyE9LK&Signature=ikPmTHwdZQLiyWSy4P0Ot0Z6Lv8%3D)
 ![](https://hhhhad.oss-cn-hangzhou.aliyuncs.com/2.jpg?Expires=1738039872&OSSAccessKeyId=TMP.3KgbCm3PASaghmJ9hmXyWpiDPCxEyffwXugro57e9zh1VteCAV6ARuPydtk389kHSAPuqmCLrsJbZWHNEdGg1gv2KyE9LK&Signature=aHEe3uKXocwFkDS60r7WwMLZigw%3D)
 ![](https://hhhhad.oss-cn-hangzhou.aliyuncs.com/3.jpg?Expires=1738039906&OSSAccessKeyId=TMP.3KgbCm3PASaghmJ9hmXyWpiDPCxEyffwXugro57e9zh1VteCAV6ARuPydtk389kHSAPuqmCLrsJbZWHNEdGg1gv2KyE9LK&Signature=VTYQvjAIodRZ9Sweamwu3pD1LQw%3D)
-
-
 
